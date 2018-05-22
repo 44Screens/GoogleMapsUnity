@@ -4,5 +4,5 @@
 public class Route : ScriptableObject
 {
     public Enums.TravelMode _travelMode;
-    public string destination;
+    public string _destination;
 }
